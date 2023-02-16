@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+body {
+    font-size: 200%;
+    font-family: 'Dongle', Damascus, serif;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #DCEBFF;
+}
+
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #DCEBFF;
+    color: #AAB9FF;
+}
